@@ -1,8 +1,6 @@
-### Here is what I'm Working On!  👋
+### Hi there I'm Nelson!👋 Let's Relates!
 
-
-
-Here are some ideas to get you started:
+Here is what I'm Working On:
 
 - 🔭 I’m currently working on ...Doctors_Appointment_Booking Web Application.
 - 🌱 I’m currently learning ...DevOps.![love](https://user-images.githubusercontent.com/60765063/158307828-dce36160-26ba-4a0e-b285-b3ea3ec5bc95.jpg)
